@@ -11,33 +11,29 @@
   - Erkin Adylov
 
 * **How did the idea for the company (or project) come about?**
-  - The idea for Behavox came about from Erkin Adylov’s experience in the financial services industry. He recognized the need for a more sophisticated approach to compliance and risk management that could leverage the latest advancements in AI and machine learning. This led him to found Behavox in 2014, with the aim of using AI to aggregate, analyze, and act on communication data across various channels, such as emails, phone calls, and chat messages. 
-  > "The way people work today is highly digital—we send emails, we’re on the phone, we’re on Uber chat—and that is amplified in financial services, where we no longer go to restaurants to trade stocks, and we certainly don’t write them up on tickets. Everything is electronic, which means the workplace is no longer a place—it’s a digital domain. The way we run companies, the way we motivate people, the way we analyze our people, the way we do everything has to be completely changed, because when it’s digital it means that you can analyze it using computers. And if you can analyze it using computers, artificial intelligence is able to do all of these amazing things."
-  - Source: [Behavox - Q&A](https://www.behavox.com/news/qa-erkin-adylov/)
+  - Erkin Adylov's experience in the financial services sector highlighted the need for advanced compliance and risk management tools. In response, he founded Behavox in 2014 to leverage AI and machine learning. Behavox uses AI to collect and analyze communication data from various sources like emails, phone calls, and chat messages, aiming to enhance risk detection and compliance efficiency [(Celarier, 2018)](https://www.behavox.com/news/qa-erkin-adylov/).
+  > "The way people work today is highly digital—we send emails, we’re on the phone, we’re on Uber chat—and that is amplified in financial services, where we no longer go to restaurants to trade stocks, and we certainly don’t write them up on tickets. Everything is electronic, which means the workplace is no longer a place—it’s a digital domain. The way we run companies, the way we motivate people, the way we analyze our people, the way we do everything has to be completely changed, because when it’s digital it means that you can analyze it using computers. And if you can analyze it using computers, artificial intelligence is able to do all of these amazing things" [(Celarier, 2018)](https://www.behavox.com/news/qa-erkin-adylov/).
 
 * **How is the company funded? How much funding have they received?**
-  - Behavox raised funding through multiple investment rounds. As of now, they have received over $100 million in funding from investors such as Index Ventures and Hoxton Ventures.
-  - Source: [Crunchbase - Behavox Funding](https://www.crunchbase.com/organization/behavox/company_financials)
+  - Behavox raised funding through multiple investment rounds. As of now, they have received over $100 million in funding from investors such as Index Ventures and Hoxton Ventures [(Behavox Company Financials, n.d.)](https://www.crunchbase.com/organization/behavox/company_financials).
 
 ## Business Activities
 
 * **What specific problem is the company or project trying to solve?**
-  - Behavox aims to solve the problem of compliance monitoring and risk management in financial services. They address the challenges of detecting and preventing regulatory breaches, insider trading, and other forms of misconduct by analyzing large volumes of communication data.
-  - Source: [Behavox - Solutions](https://www.behavox.com/solutions/commodities-expertise/), [Behavox - Products](https://www.behavox.com/products/alert-review-managed-service/)
+  - Behavox aims to solve the problem of compliance monitoring and risk management in financial services. They address the challenges of detecting and preventing regulatory breaches, insider trading, and other forms of misconduct by analyzing large volumes of communication data [(Commodities Expertise, n.d.)](https://www.behavox.com/solutions/commodities-expertise/), [(Alert Review Managed Service, n.d.)](https://www.behavox.com/products/alert-review-managed-service/).
 
 * **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
-  - Behavox’s intended customers are financial institutions, including banks, broker-dealers, and investment advisors. The market for compliance and risk management solutions in financial services is substantial, with the global regulatory technology (RegTech) market expected to reach $55.28 billion by 2025.
-  - Source: [Market Research - RegTech Market Size](https://www.marketresearchfuture.com/reports/regtech-market-7065)
+  - Behavox’s intended customers are financial institutions, including banks, broker-dealers, and investment advisors. The market for compliance and risk management solutions in financial services is substantial, with the global regulatory technology (RegTech) market expected to reach $55.28 billion by 2025 [(Regtech Market Size, Share & Industry Analysis, 2024)](https://www.fortunebusinessinsights.com/regtech-market-108305).
 
 * **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
-  - Combination of AI-driven communication surveillance and behavioral analytics. Their ability to monitor and analyze multiple communication channels in real-time, coupled with advanced machine learning algorithms, provides a more comprehensive and proactive approach to compliance and risk management.
+  - Combination of AI-driven communication surveillance and behavioral analytics. Their ability to monitor and analyze multiple communication channels in real-time, coupled with advanced machine learning algorithms, provides a more comprehensive and proactive approach to compliance and risk management [(Commodities Expertise, n.d.)](https://www.behavox.com/solutions/commodities-expertise/) [Behavox Intelligent Archive, n.d.](https://www.behavox.com/behavox-intelligent-archive/).
 
 * **Which technologies are they currently using, and how are they implementing them?**
   - **Natural Language Processing (NLP):** To analyze and interpret communication data.
   - **Machine Learning:** For pattern recognition and anomaly detection.
-  - **Big Data Analytics:** To handle and process vast amounts of communication data.
-  - **Cloud Computing:** For scalable data storage and processing capabilities.
-  - Source: [Behavox - Products](https://www.behavox.com/behavox-intelligent-archive/)
+  - **Big Data Analytics:** To handle and process communication data.
+  - **Cloud Computing:** For data storage and processing capabilities.
+  - Source: [(Behavox Intelligent Archive, n.d.)](https://www.behavox.com/behavox-intelligent-archive/)
 
 ## Landscape
 
@@ -51,7 +47,7 @@
     - Development of sophisticated NLP algorithms for communication surveillance.
     - Growing emphasis on proactive risk management and predictive analytics.
     - Developing advanced reporting tools that streamline the collection, analysis, and submission of regulatory data.
-  - Source: [Deloitte - RegTech Trends](https://www.deloitte.com/lu/en/services/consulting/services/regtech-services.html)
+  - Source: [(New Landscape, New Regulations, 2024)](https://action.deloitte.com/insight/3826/new-landscape-new-regulations-a-path-forward-for-the-tech-industry)
 
 * **What are the other major companies in this field?**
   - Other major companies in the RegTech field include:
@@ -59,13 +55,12 @@
     - **AAscent RegTech:** Offers customized regulatory and compliance services
     - **ComplyAdvantage:** Focuses on financial crime detection and AML solutions.
     - **Chainalysis:** Provides blockchain data and cryptocurrency compliance solutions.
-  - Source: [RegTech Analyst - Top RegTech Companies](https://fintechmagazine.com/articles/fintech-magazines-top-10-regtech-companies)
+  - Source: [(Thompsett, 2023)](https://fintechmagazine.com/articles/fintech-magazines-top-10-regtech-companies)
 
 ## Results
 
 * **What has been the business impact of this company so far?**
-  - Behavox has significantly enhanced compliance efficiency, improved risk management, and facilitated data-driven decision-making for global financial institutions, leading to substantial returns on investment and better adherence to regulatory requirements.
-  - Source: [Behavox - News](https://www.behavox.com/news/behavox-announces-strong-revenue-growth-and-continued-profitability/)​​
+  - Behavox has enhanced compliance efficiency, improved risk management, and facilitated data-driven decision-making for global financial institutions, leading to substantial returns on investment and better adherence to regulatory requirements [(Behavox announces strong revenue growth and continued profitability, 2024)](https://www.behavox.com/news/behavox-announces-strong-revenue-growth-and-continued-profitability/)​​.
 
 * **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
   - Core metrics in the RegTech field include:
@@ -73,12 +68,10 @@
     - **False Positive Rate:** The accuracy of the system in minimizing false alerts.
     - **Response Time:** The speed at which potential issues are identified and addressed.
     - **Customer Adoption:** The number of financial institutions using their solutions.
-  - Behavox has shown strong performance in these areas, with high detection rates, low false positive rates, and widespread adoption among top financial institutions.
-  - Source: [Behavox - Case Studies](https://www.behavox.com/news/jefferies-group-implements-behavox/), [Behavox - News](https://www.behavox.com/news/danske-bank-enhances-risk-management-behavox-compliance/), [Business Wire - Behavox](https://www.businesswire.com/news/home/20231214623227/en/Behavox-Selected-by-BNY-Mellon-to-Provide-Next-Generation-AI-Solution-for-Its-Compliance-Program)
+  - Behavox has shown strong performance in these areas, with high detection rates, low false positive rates, and widespread adoption among top financial institutions [(Jefferies Group Implements Behavox, 2020)](https://www.behavox.com/news/jefferies-group-implements-behavox/), [(Danske Bank Enhances Risk Management, 2020)](https://www.behavox.com/news/danske-bank-enhances-risk-management-behavox-compliance/), [(Behavox Selected by BNY Mellon, 2023)](https://www.businesswire.com/news/home/20231214623227/en/Behavox-Selected-by-BNY-Mellon-to-Provide-Next-Generation-AI-Solution-for-Its-Compliance-Program).
 
 * **How is your company performing relative to competitors in the same field?**
-  - Over the past year, Behavox achieved a 58% revenue growth in 2023, up from 34% in 2022. The company secured partnerships with BNY Mellon, Vitol, and Evercore and rolled out its Quantum AI product, incorporating GenAI and large language models (LLMs), setting industry standards for efficiency and accuracy. Behavox also launched the Behavox Intelligent Archive in partnership with Google Cloud, and its Voice20 product achieved best-in-class transcription results. These developments are recognized by awards such as "Best RegTech Solution" by the HFM European Technology Awards and inclusion in the RegTech 100 list​.
-  - Source: [Behavox - Most Innovative RegTech Companies](https://www.behavox.com/blog/regtech-100-award/), [FinTech Futures - Hedge Fund Industry Organization Awards Behavox for “Best RegTech Solution”](https://www.fintechfutures.com/2020/09/hedge-fund-industry-organization-awards-behavox-for-best-regtech-solution/), [Business Wire - Behavox Announces Outstanding 2023 Full Year Results](https://www.businesswire.com/news/home/20240124869581/en/Behavox-Announces-Outstanding-2023-Full-Year-Results-with-58-Revenue-Growth/)
+  - Over the past year, Behavox achieved a 58% revenue growth in 2023, up from 34% in 2022. The company secured partnerships with BNY Mellon, Vitol, and Evercore and rolled out its Quantum AI product, incorporating GenAI and large language models (LLMs). Behavox also launched the Behavox Intelligent Archive in partnership with Google Cloud, and its Voice20 product achieved best-in-class transcription results. These developments are recognized by awards such as "Best RegTech Solution" by the HFM European Technology Awards and inclusion in the RegTech 100 list​ [(Houton, 2021)](https://www.behavox.com/blog/regtech-100-award/), [(Hedge Fund Industry Organization Awards Behavox, 2020)](https://www.fintechfutures.com/2020/09/hedge-fund-industry-organization-awards-behavox-for-best-regtech-solution/), [(Behavox Announces Outstanding 2023 Full Year Results, 2024)](https://www.businesswire.com/news/home/20240124869581/en/Behavox-Announces-Outstanding-2023-Full-Year-Results-with-58-Revenue-Growth/).
 
 ## Recommendations
 
@@ -116,18 +109,19 @@
     - **Explanation of Whitepapers and New Rules:** Financial institutions often struggle to keep up with the continuous flow of new regulations and updates. Automated synthesis tools, similar to those developed by Narrative Science and other AI firms, help compliance teams quickly grasp the essentials and implement necessary changes.
 ## Sources
 
-1. [Behavox - Founder Q&A](https://www.behavox.com/news/qa-erkin-adylov/)
-2. [Crunchbase - Behavox Funding](https://www.crunchbase.com/organization/behavox/company_financials)
-3. [Behavox - Solutions](https://www.behavox.com/solutions/commodities-expertise/)
-4. [Behavox - Products](https://www.behavox.com/products/alert-review-managed-service/)
-5. [Market Research - RegTech Market Size](https://www.marketresearchfuture.com/reports/regtech-market-7065)
-6. [Behavox - Intelligent Archive](https://www.behavox.com/behavox-intelligent-archive/)
-7. [Deloitte - RegTech Trends](https://www.deloitte.com/lu/en/services/consulting/services/regtech-services.html)
-8. [FinTech Magazine - Top RegTech Companies](https://fintechmagazine.com/articles/fintech-magazines-top-10-regtech-companies)
-9. [Behavox - Revenue News](https://www.behavox.com/news/behavox-announces-strong-revenue-growth-and-continued-profitability/)
-10. [Behavox - Jefferies Group](https://www.behavox.com/news/jefferies-group-implements-behavox/)
-11. [Behavox - Danske Bank](https://www.behavox.com/news/danske-bank-enhances-risk-management-behavox-compliance/)
-12. [Business Wire - Behavox](https://www.businesswire.com/news/home/20231214623227/en/Behavox-Selected-by-BNY-Mellon-to-Provide-Next-Generation-AI-Solution-for-Its-Compliance-Program)
-13. [Behavox - Most Innovative RegTech Companies](https://www.behavox.com/blog/regtech-100-award/)
-14. [FinTech Futures - Hedge Fund Industry Organization Awards Behavox for “Best RegTech Solution”](https://www.fintechfutures.com/2020/09/hedge-fund-industry-organization-awards-behavox-for-best-regtech-solution/)
-15. [Business Wire - Behavox Announces Outstanding 2023 Full Year Results](https://www.businesswire.com/news/home/20240124869581/en/Behavox-Announces-Outstanding-2023-Full-Year-Results-with-58-Revenue-Growth/)
+1. Alert Review Managed Service. (n.d.). Behavox. Retrieved July 11, 2024, from https://www.behavox.com/products/alert-review-managed-service/
+2. Behavox Announces Outstanding 2023 Full Year Results with 58% Revenue Growth. (2024, January 24). Business Wire. https://www.businesswire.com/news/home/20240124869581/en/Behavox-Announces-Outstanding-2023-Full-Year-Results-with-58-Revenue-Growth/
+3. Behavox announces strong revenue growth and continued profitability. (2024, May 30). Behavox. https://www.behavox.com/news/behavox-announces-strong-revenue-growth-and-continued-profitability/
+4. Behavox Company Financials. (n.d.). Crunchbase. Retrieved July 11, 2024, from https://www.crunchbase.com/organization/behavox/company_financials
+5. Behavox Intelligent Archive. (n.d.). Behavox. Retrieved July 11, 2024, from https://www.behavox.com/behavox-intelligent-archive/
+6. Behavox Selected by BNY Mellon to Provide Next Generation AI Solution for Its Compliance Program. (2023, December 14). Business Wire. https://www.businesswire.com/news/home/20231214623227/en/Behavox-Selected-by-BNY-Mellon-to-Provide-Next-Generation-AI-Solution-for-Its-Compliance-Program
+7. Celarier, M. (2018, December 5). Q&A: Erkin Adylov. Behavox. https://www.behavox.com/news/qa-erkin-adylov/
+8. Commodities Expertise. (n.d.). Behavox. Retrieved July 11, 2024, from https://www.behavox.com/solutions/commodities-expertise/
+9. Danske bank enhances risk management after fast-paced saas implementation of behavox compliance solution | behavox™. (2020, October 20). Behavox. https://www.behavox.com/news/danske-bank-enhances-risk-management-behavox-compliance/
+10. Hedge fund industry organization awards behavox for “best regtech solution.” (2020, September). Fintech Futures. https://www.fintechfutures.com/techwire/hedge-fund-industry-organization-awards-behavox-for-best-regtech-solution/
+11. Houton, J. (2021, December 7). Behavox named one of the world’s most innovative regtech companies on regtech 100 list. Behavox. https://www.behavox.com/blog/regtech-100-award/
+12. Jefferies group implements behavox compliance solution to enhance speed, agility of global risk management operations. (2020, July 21). Behavox. https://www.behavox.com/news/jefferies-group-implements-behavox/
+13. New Landscape, New Regulations: A Path Forward for the Tech Industry. (2024, March 14). Insights2Action; Deloitte. https://action.deloitte.com/insight/3826/new-landscape-new-regulations-a-path-forward-for-the-tech-industry
+14. Regtech Market Size, Share & Industry Analysis, By Deployment (Cloud and On-premises), By Enterprise Type (Large Enterprises and Small & Medium Enterprises), By Application (Risk Management, Regulatory Compliance, and Governance), By End-user (BFSI, Manufacturing, IT & Telecom, Healthcare, Government, and Others), and Regional Forecast, 2024 – 2032. (2024, June 24). Fortune Business Insights. https://www.fortunebusinessinsights.com/regtech-market-108305
+15. Thompsett, L. (2023, December 20). Top 10 regtech companies: Fintech magazine’s insights. https://fintechmagazine.com/articles/fintech-magazines-top-10-regtech-companies
+
